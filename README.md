@@ -1,1 +1,1 @@
-"# DOQEX" 
+# DOQEX
